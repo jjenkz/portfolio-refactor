@@ -10,8 +10,8 @@ SO THAT our own site is optimized
 
 GIVEN a webpage meets accessiblity standards
 WHEN I view the source code
-THEN I find the sematnic HTML elements
-WHEN I view the structure of thte HTML elements
+THEN I find the semantic HTML elements
+WHEN I view the structure of the HTML elements
 THEN I find that the elements follow a logical structure indepedent of styling and positioning
 WHEN I view the image elements
 THEN I find the accessible alt attributes
